@@ -29,9 +29,9 @@
 | 📊 | **PL-300: Power BI Data Analyst Associate** | Microsoft |
 | ❄️ | **SnowPro Core Certification** | Snowflake |
 | 🧱 | **Data Engineer Associate** | Databricks |
-| 🔧 | **dbt Fundamentals** | dbt Labs |
+| 🔧 | **dbt Fundamentals** | Udemy |
 | 🌱 | **Google Data Analytics Professional Certificate** | Google |
-| 📘 | **CS50 SQL** | Harvard |
+| 📘 | **CS50 SQL** | Harvard CS50 |
 
 </div>
 
