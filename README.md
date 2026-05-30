@@ -85,7 +85,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 ![](https://github-readme-stats.shion.dev/api?username=iamkumar-gaurav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
