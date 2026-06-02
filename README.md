@@ -89,8 +89,6 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=iamkumar-gaurav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![](https://streak-stats.demolab.com/?user=iamkumar-gaurav&theme=tokyonight&hide_border=true)
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamkumar-gaurav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
